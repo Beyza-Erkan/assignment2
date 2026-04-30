@@ -1,3 +1,4 @@
+// Registration form validation logic for Create New Account page
 package org.example;
 
 import java.time.LocalDate;
